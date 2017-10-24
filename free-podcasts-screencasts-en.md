@@ -14,6 +14,7 @@
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Javascript](#javascript)
+* [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
 * [Node.js](#Nodejs)
 * [PHP](#php)
@@ -71,7 +72,7 @@
 * [Screencast] - [Elixir Sips](http://elixirsips.com) - Some free
 * [Screencast] - [ElixirConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT)
 * [Screencast] - [ElixirConf 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
-* [Screencast] = [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt)
+* [Screencast] - [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt)
 
 
 ### Emacs
@@ -99,27 +100,39 @@
 ### Golang
 
 * [Podcast] - [Go Time](https://changelog.com/gotime)
+* [Screencast] - [Go An Introduction](https://www.youtube.com/watch?v=SI-okTfauyw)
+* [Screencast] - Go and AngularJS  
+    * [Part 1 - Hello World](https://www.youtube.com/watch?v=U80k7fTEqNw)
+    * [Part 2 - Websockets](https://www.youtube.com/watch?v=ysAZ_oqPOo0)
+    * [Part 3 - REST and ngResource](https://www.youtube.com/watch?v=QHIMygADPPc)
+* [Screencast] - [Go Programming Tutorial](https://www.youtube.com/watch?v=CF9S4QZuV30)
 * [Screencast] - [Hacking with Andrew and Brad: tip.golang.org](https://www.youtube.com/watch?v=1rZ-JorHJEY)
 * [Screencast] - [Hacking with Andrew and Brad: an HTTP/2 client](https://www.youtube.com/watch?v=yG-UaBJXZ80)
+* [Screencast] - [Build webapp without using a framework](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4)
 
 
 ### Gulp
 
-* [Screencast] - [Learning Gulp](http://leveluptuts.com/tutorials/learning-gulp)
+* [Screencast] - [Learning Gulp](https://www.leveluptutorials.com/tutorials/learning-gulp)
 
 
 ### Javascript
 
-* [Podcast] - [5 Minutes of JavaScript](https://fivejs.codeschool.com)
 * [Podcast] - [FiveJS](https://fivejs.codeschool.com)
 * [Podcast] - [Front End Happy Hour](http://frontendhappyhour.com)
 * [Podcast] - [Frontend Five](https://frontendfive.codeschool.com)
 * [Podcast] - [JavaScript Air](https://javascriptair.com)
 * [Podcast] - [JavaScript Jabber](https://devchat.tv/js-jabber)
+* [Podcast] - [Syntax](https://syntax.fm)
 * [Podcast] - [The Javascript Show](http://javascriptshow.com)
 * [Screencast] - [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript)
 * [Screencast] - [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com)
-* [Screencast] - [ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript)
+
+
+### Kotlin
+
+* [Podcast] - [Talking Kotlin](http://talkingkotlin.com)
+* [Screencast] - [Kotlin Beginners Tutorials](https://www.youtube.com/playlist?list=PLpg00ti3ApRweIhdOI4VCFFStx4uXC__u)
 
 
 ### Language Agnostic
@@ -135,8 +148,6 @@
 * [Podcast] - [CodePen Radio](https://blog.codepen.io/radio/)
 * [Podcast] - [Coding Blocks](http://www.codingblocks.net)
 * [Podcast] - [CTRL+CLICK CAST](http://ctrlclickcast.com)
-* [Podcast] - [Descriptive](http://descriptive.audio)
-* [Podcast] - [Dev Discussions](http://www.devdiscussions.com)
 * [Podcast] - [Developer On Fire](http://developeronfire.com)
 * [Podcast] - [Developer Tea](https://developertea.com)
 * [Podcast] - [DevelopersHangout](http://www.developershangout.io)
@@ -170,6 +181,7 @@
 * [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
 * [Podcast] - [The Web Ahead](http://5by5.tv/webahead)
 * [Podcast] - [The Web Platform](http://thewebplatform.libsyn.com)
+* [Podcast] - [This Developer's Life](http://thisdeveloperslife.com)
 * [Podcast] - [ThoughtWorks](https://soundcloud.com/thoughtworks)
 * [Podcast] - [Three Devs and a Maybe](http://threedevsandamaybe.com)
 * [Podcast] - [Toolsday](http://toolsday.io)
@@ -179,7 +191,6 @@
 
 ### Node.js
 
-* [Podcast] - [Node.js Screencast Series - Tutsowl](http://www.tutsowl.com)
 * [Podcast] - [Nodeup](http://nodeup.com)
 
 
@@ -206,10 +217,10 @@
 * [Podcast] - [Python Test Podcast](http://pythontesting.net/test-podcast)
 * [Podcast] - [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm)
 * [Podcast] - [The Python Experience](http://python.madewithopinion.com)
+* [Screencast] - [Build applications in Python the antitextbook](https://www.youtube.com/playlist?list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy)
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)
 * [Screencast] - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
 * [Screencast] - [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i)
-* [Screencast] - [ShowMeDo - Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
 * [Screencast] - [TheNewBoston - Pygame (Python Game Development) Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq)
 * [Screencast] - [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 * [Screencast] - [TheNewBoston - Python GUI with Tkinter Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d)
@@ -220,7 +231,7 @@
 ### React JS
 
 * [Podcast] - [React Native Podcast](https://devchat.tv/react-native-radio)
-* [Podcast] - [React Podcast](http://reactpodcast.com)
+* [Screencast] - [ReactCasts](https://www.youtube.com/c/reactcasts)
 
 
 ### Ruby
@@ -230,9 +241,8 @@
 * [Podcast] - [Ruby Rogues](https://devchat.tv/ruby-rogues/)
 * [Podcast] - [The Bike Shed](http://bikeshed.fm)
 * [Podcast] - [The Ruby Show](http://rubyshow.com)
-* [Screencast] - [Free Ruby on Rails Screencasts](http://railscasts.com/?type=free)
+* [Screencast] - [Railscasts](http://railscasts.com)
 * [Screencast] - [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free)
-* [Screencast] - [Ruby Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/ruby)
 
 
 ### Rust
